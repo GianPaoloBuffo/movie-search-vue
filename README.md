@@ -1,5 +1,7 @@
 # movie-search-vue
 
+Implementation of [Build a movie search app using the Vue Composition API](https://bit.ly/2KwgldT)
+
 ## Project setup
 ```
 npm install
